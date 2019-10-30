@@ -1,0 +1,18 @@
+d:\documents\visual studio 2010\Projects\JVissim\JVissim\bin\Debug\JVissim.exe
+d:\documents\visual studio 2010\Projects\JVissim\JVissim\bin\Debug\JVissim.pdb
+d:\documents\visual studio 2010\Projects\JVissim\JVissim\obj\x86\Debug\Interop.VISSIM_COMSERVERLib.dll
+d:\documents\visual studio 2010\Projects\JVissim\JVissim\obj\x86\Debug\JVissim.csproj.ResolveComReference.cache
+d:\documents\visual studio 2010\Projects\JVissim\JVissim\obj\x86\Debug\JVissim.exe
+d:\documents\visual studio 2010\Projects\JVissim\JVissim\obj\x86\Debug\JVissim.pdb
+C:\Users\Administrator\Desktop\JVissim\JVissim\obj\x86\Debug\Interop.VISSIM_COMSERVERLib.dll
+C:\Users\Administrator\Desktop\JVissim\JVissim\obj\x86\Debug\JVissim.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\JVissim\JVissim\obj\x86\Debug\JVissim.exe
+C:\Users\Administrator\Desktop\JVissim\JVissim\obj\x86\Debug\JVissim.pdb
+C:\Users\Administrator\Desktop\JVissim\JVissim\bin\Debug\JVissim.exe
+C:\Users\Administrator\Desktop\JVissim\JVissim\bin\Debug\JVissim.pdb
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\匝道穿插间隙\JVissim\obj\x86\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\匝道穿插间隙\JVissim\obj\x86\Debug\JVissim.csproj.ResolveComReference.cache
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\匝道穿插间隙\JVissim\obj\x86\Debug\JVissim.exe
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\匝道穿插间隙\JVissim\obj\x86\Debug\JVissim.pdb
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\匝道穿插间隙\JVissim\bin\Debug\JVissim.exe
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\匝道穿插间隙\JVissim\bin\Debug\JVissim.pdb
