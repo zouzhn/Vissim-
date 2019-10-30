@@ -1,0 +1,22 @@
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VS Projects\Intersection\Intersection\bin\Debug\Intersection.exe
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VS Projects\Intersection\Intersection\bin\Debug\Intersection.pdb
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VS Projects\Intersection\Intersection\obj\x86\Debug\Interop.VISSIM_COMSERVERLib.dll
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VS Projects\Intersection\Intersection\obj\x86\Debug\Intersection.csproj.ResolveComReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VS Projects\Intersection\Intersection\obj\x86\Debug\Intersection.exe
+D:\Program Files (x86)\Microsoft Visual Studio 10.0\VS Projects\Intersection\Intersection\obj\x86\Debug\Intersection.pdb
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\交叉口穿插间隙（有dxf）\Intersection\obj\x86\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\交叉口穿插间隙（有dxf）\Intersection\obj\x86\Debug\Intersection.csproj.ResolveComReference.cache
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\交叉口穿插间隙（有dxf）\Intersection\obj\x86\Debug\Intersection.exe
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\交叉口穿插间隙（有dxf）\Intersection\obj\x86\Debug\Intersection.pdb
+C:\Users\Administrator\Desktop\交叉口穿插间隙（有dxf）\Intersection\obj\x86\Debug\Interop.VISSIM_COMSERVERLib.dll
+C:\Users\Administrator\Desktop\交叉口穿插间隙（有dxf）\Intersection\obj\x86\Debug\Intersection.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\交叉口穿插间隙（有dxf）\Intersection\obj\x86\Debug\Intersection.exe
+C:\Users\Administrator\Desktop\交叉口穿插间隙（有dxf）\Intersection\obj\x86\Debug\Intersection.pdb
+C:\Users\Administrator\Desktop\交叉口穿插间隙（有dxf）\Intersection\bin\Debug\Intersection.exe
+C:\Users\Administrator\Desktop\交叉口穿插间隙（有dxf）\Intersection\bin\Debug\Intersection.pdb
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\交叉口穿插间隙-有平均行程时间和车辆数计算（有dxf）\Intersection\obj\x86\Debug\Interop.VISSIM_COMSERVERLib.dll
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\交叉口穿插间隙-有平均行程时间和车辆数计算（有dxf）\Intersection\obj\x86\Debug\Intersection.csproj.ResolveComReference.cache
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\交叉口穿插间隙-有平均行程时间和车辆数计算（有dxf）\Intersection\obj\x86\Debug\Intersection.exe
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\交叉口穿插间隙-有平均行程时间和车辆数计算（有dxf）\Intersection\obj\x86\Debug\Intersection.pdb
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\交叉口穿插间隙-有平均行程时间和车辆数计算（有dxf）\Intersection\bin\Debug\Intersection.exe
+E:\桌面文件夹\成果文档\Vissim 4.3二次开发\实验研究例子\交叉口穿插间隙-有平均行程时间和车辆数计算（有dxf）\Intersection\bin\Debug\Intersection.pdb
